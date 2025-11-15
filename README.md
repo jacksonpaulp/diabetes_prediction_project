@@ -135,13 +135,5 @@ docker build -t diabetes_prediction:latest .
 docker run -p 8000:8000 diabetes_prediction:latest
 ```
 
-## Contributing
-- Follow the code structure and conventions
-- Update this README if you add new features
-- Test changes before committing
-
-## License
-Specify a license in `LICENSE`. If none exists, add one before publication.
-
 ## Contact
 For questions or issues, refer to the repository issue tracker or contact the project owner.
