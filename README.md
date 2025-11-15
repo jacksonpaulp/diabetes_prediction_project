@@ -21,8 +21,8 @@ This repository contains code, configuration and utilities to train, evaluate an
 ## Quick Start
 1. Clone the repo
     ```
-    git clone <repo-url>
-    cd mlz2025_mtp
+    git clone [repo](https://github.com/jacksonpaulp/diabetes_prediction_project.git)
+    cd diabetes_prediction_project
     ```
 2. Create and activate virtual environment
     ```
