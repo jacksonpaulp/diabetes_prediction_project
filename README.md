@@ -1,6 +1,6 @@
 # Diabetes Prediction Project
 
-An end-to-end machine learning project for predicting diabetes risk using health indicators from the BRFSS2015 dataset. Created as part of the ML Zoomcamp from DataTalksClub.
+An end-to-end machine learning project for predicting diabetes risk using health indicators from the BRFSS2015 dataset from Kaggle ([data](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)). Created as part of the ML Zoomcamp from DataTalksClub.
 
 ## Overview
 This repository contains code, configuration and utilities to train, evaluate and serve XGBoost models for diabetes prediction. It focuses on reproducibility and simple deployment with FastAPI.
@@ -50,7 +50,7 @@ This repository contains code, configuration and utilities to train, evaluate an
 
 ## Project Structure
 ```
-mlz2025_mtp/
+diabetes_prediction_project/
 ├── data/                          # Raw and processed datasets
 │   └── diabetes_012_health_indicators_BRFSS2015.csv
 ├── src/                           # Project source code
