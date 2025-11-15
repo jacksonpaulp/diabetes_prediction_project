@@ -1,0 +1,18 @@
+[project]
+name = "diabetes-prediction-project"
+version = "0.1.0"
+description = "Diabetes prediction service"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.121.2",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "uvicorn>=0.38.0",
+    "xgboost>=3.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "requests>=2.32.5",
+]
